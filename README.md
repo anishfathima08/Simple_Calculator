@@ -71,3 +71,7 @@ Follow these steps to run the project locally:
 
   ```bash
   npm start
+  ```
+
+## Demo 🖥️
+Visit the live demo: [Simple Calculator](https://simple-calculator-anis.netlify.app/)
