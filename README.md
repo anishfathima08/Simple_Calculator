@@ -2,7 +2,7 @@
 
 A **React-based calculator application** that performs basic arithmetic operations. Built with React functional components, it utilizes the **useState Hook** for state management and clean, reusable functions for efficient calculations.
 
-## Features ✨
+## Features
 
 - **Responsive Design**: User-friendly interface optimized for all devices.
 - **Basic Arithmetic**: Perform addition, subtraction, multiplication, and division.
@@ -11,7 +11,7 @@ A **React-based calculator application** that performs basic arithmetic operatio
 
 ---
 
-## Project Overview 🚀
+## Project Overview 
 
 This project demonstrates the use of React to create a fully functional calculator. It focuses on the following key concepts:
 
@@ -26,14 +26,14 @@ This project demonstrates the use of React to create a fully functional calculat
 
 ---
 
-## Technologies Used 🛠️
+## Technologies Used 
 
 - **React.js**: Frontend library for building the user interface.
 - **CSS**: Styling the application for a clean and modern look.
 
 ---
 
-## How It Works 🖥️
+## How It Works 
 
 1. **State Management**:
    - The application maintains three states:
@@ -51,7 +51,7 @@ This project demonstrates the use of React to create a fully functional calculat
 
 ---
 
-## Installation and Usage 🛠️
+## Installation and Usage 
 
 Follow these steps to run the project locally:
 
@@ -70,8 +70,8 @@ Follow these steps to run the project locally:
 3. **Start the Application**:
 
   ```bash
-  npm start
+  npm run dev
   ```
 
-## Demo 🖥️
-Visit the live demo: [Simple Calculator](https://simple-calculator-anis.netlify.app/)
+## Demo 
+Visit the live demo: [Simple Calculator](https://simplecalc-saf.netlify.app/)

@@ -23,7 +23,13 @@ const App = () => {
   // To display the result of the expression  
   const sum = () => {
     try {
-      setValue(eval(value));
+      var result = eval(value);
+    
+      if (typeof result === "number" && !Number.isInteger(result)) {
+        result = parseFloat(result.toFixed(4)); // you can change 4 to 2 or 3
+      }
+
+      setValue(result.toString());
     } catch (error) {
       alert("Invalid Expression");
       setValue(""); 
